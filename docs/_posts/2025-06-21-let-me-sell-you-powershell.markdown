@@ -2,7 +2,7 @@
 layout: post
 title:  "Let me sell you PowerShell!"
 date:   2025-06-21 00:12:21 +0300
-categories: powershell standalone
+categories: powershell
 ---
 Just like how Excel is to data analysis, so is PowerShell to system administration: a ubiquitous tool with limitless potential, for better or worse!
 
